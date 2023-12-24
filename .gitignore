@@ -1,0 +1,38 @@
+# .gitignore
+
+# Virtual Environment
+venv/
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editor specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.pycharm
+*.pyc
+
+# Local configuration file (if applicable)
+*.env
+
+# Miscellaneous
+*.log
+*.db
+*.sqlite3
+*.xlsx
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# OS generated files
+.DS_Store
+Thumbs.db
